@@ -22,7 +22,7 @@ The fact that a work is unpublished shall not itself bar a finding of fair use i
 
 *(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2546; Pub. L. 101–650, title VI, § 607, Dec. 1, 1990, 104 Stat. 5132; Pub. L. 102–492, Oct. 24, 1992, 106 Stat. 3145.)*
 
-### Declaration of Intent
+## Declaration of Intent
 
 The content contained in this repository is intended for the following use cases:
 
@@ -39,5 +39,3 @@ This API recieves a payload containing a message sent by a user. It uses the con
 The results of these tests against each of the 8 to 16 sample texts generated earlier are then averaged. The average result of each test is then compared to the results of the original payload to determine the likelihood of the payload message being a valid string.
 
 If you have any questions about the usage of any content contained within this repository, please reach out to @Savant-Dev
-
-- 
