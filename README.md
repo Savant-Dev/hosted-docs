@@ -7,7 +7,7 @@ All rights belong to each documents respective copyright owners (see below).
 
 # Included Documentation
 
-Harry Potter Books 1-7: **J.K. Rowling**
+Harry Potter Books 1-7: Authored By: **J.K. Rowling**
 
 # Licensing
 
