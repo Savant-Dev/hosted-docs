@@ -38,4 +38,6 @@ This API recieves a payload containing a message sent by a user. It uses the con
 
 The results of these tests against each of the 8 to 16 sample texts generated earlier are then averaged. The average result of each test is then compared to the results of the original payload to determine the likelihood of the payload message being a valid string.
 
+# Questions or Concerns
+
 If you have any questions about the usage of any content contained within this repository, please reach out to @Savant-Dev
