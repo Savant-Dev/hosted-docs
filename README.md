@@ -26,7 +26,7 @@ The fact that a work is unpublished shall not itself bar a finding of fair use i
 
 The content contained in this repository is intended for the following use cases:
 
-- Sample Text Generation for the Message Evaluation API contained within Project Savant
+- Sample Text Generation for the Message Evaluation API contained within `Project Savant`
 
 This API recieves a payload containing a message sent by a user. It uses the content contained within this repository to generate no more than 16 substrings of length *n* (where *n* is equal to length of the original payload). These substrings are then ran through a series of tests, which quantify properties such as: 
 
